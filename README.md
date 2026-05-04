@@ -10,7 +10,7 @@ The chatbot can:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Context Memory**
   - Maintains conversation history so follow-up questions are understood correctly.
@@ -34,6 +34,5 @@ The chatbot can:
 
 ---
 
-## 🧠 System Architecture
 
 
